@@ -1,3 +1,5 @@
+![Whatsable](assets/whatsable.png)
+
 # Whatsable for Cursor
 
 Connect Cursor to **Whatsable**, the WhatsApp Business communication and automation platform, through the Model Context Protocol (MCP).
