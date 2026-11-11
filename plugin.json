@@ -1,9 +1,22 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "whatsable",
-  "description": "Connect Cursor to Whatsable WhatsApp Business workflows through MCP.",
+  "description": "Connect Cursor to Whatsable's WhatsApp Business platform through MCP.",
   "version": "0.1.0",
   "author": {
-    "name": "Whatsable"
-  }
+    "name": "Automazing, LLC",
+    "email": "team@whatsable.app",
+    "url": "https://whatsable.app"
+  },
+  "homepage": "https://whatsable.app",
+  "repository": "https://github.com/Chat-Mago/whatsable-cursor-plugin",
+  "keywords": [
+    "whatsapp",
+    "whatsable",
+    "business-messaging",
+    "mcp",
+    "automation",
+    "customer-communications",
+    "cursor"
+  ]
 }
