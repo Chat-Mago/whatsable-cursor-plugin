@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "whatsable",
+  "description": "Connect Cursor to Whatsable WhatsApp Business workflows through MCP.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Whatsable"
+  }
+}
