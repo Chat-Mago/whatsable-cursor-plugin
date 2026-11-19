@@ -4,8 +4,11 @@
 
 Connect Cursor to **Whatsable**, the WhatsApp Business communication and automation platform, through the Model Context Protocol (MCP).
 
+**[Install Whatsable from Cursor Directory](https://cursor.directory/plugins/whatsable)**
+
 Whatsable exposes account and WhatsApp Business workflows to compatible AI clients. Depending on the permissions granted during authorization and the account's configuration, the available tools can cover account information, contacts, conversations, messages, labels, templates, scheduled messages, broadcasts, AI bots, and analytics.
 
+- Cursor Directory: [Install Whatsable](https://cursor.directory/plugins/whatsable)
 - Website: [whatsable.app](https://whatsable.app)
 - Documentation: [docs.whatsable.app](https://docs.whatsable.app)
 - Support: [team@whatsable.app](mailto:team@whatsable.app)
@@ -33,7 +36,13 @@ This repository contains client-side plugin configuration and documentation. It 
 
 ## Install
 
-Once the listing is available, find **Whatsable** in Cursor's Customize / Marketplace experience or through Cursor Directory, install it, and select **Authenticate** to authorize your Whatsable account.
+1. Open the [Whatsable listing in Cursor Directory](https://cursor.directory/plugins/whatsable).
+2. Select **Add to Cursor** and review the MCP server configuration.
+3. Install the server in Cursor.
+4. In Cursor, open **Customize → MCPs** and select **Authenticate** next to Whatsable.
+5. Sign in to Whatsable, choose the organization you want to connect, and approve only the permissions needed for your intended workflows.
+
+For a first connection, **Read only** is a sensible way to explore the integration before granting permissions that allow changes or sending messages. You can review or revoke the connection's authorization through Whatsable.
 
 For local development and testing, follow [Cursor's plugin documentation](https://cursor.com/docs/plugins).
 
